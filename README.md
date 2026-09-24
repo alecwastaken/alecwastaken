@@ -1,20 +1,25 @@
-# Alec Bastien
+# Hey, I'm Alec 👋
 
-Student in Pure & Applied Sciences at Collège Jean-de-Brébeuf.
+I'm a Pure & Applied Sciences student at Collège Jean-de-Brébeuf interested in the intersection of **mathematics, computer science, engineering, and quantitative finance**.
 
-Interested in quantitative finance, computer science, mathematics, and engineering.
+I'm currently building my foundations in Python and scientific computing while applying what I learn through projects.
 
-### Currently
+## What I'm working on
 
-- Learning Python through Harvard CS50P
-- Exploring quantitative finance and mathematical modeling
-- Studying calculus, mechanics, and chemistry
-- Building projects to apply what I learn
+- 🐍 Learning Python through Harvard's CS50P
+- 📈 Exploring quantitative finance and financial modeling
+- 🧮 Studying calculus through MIT OpenCourseWare
+- ⚙️ Studying mechanics and general chemistry
+- 🔨 Building my first independent projects
 
-### Interests
+## Interests
 
-`Python` `Quantitative Finance` `Data Analysis` `Mathematics`
+`Python` · `Quantitative Finance` · `Data Analysis` · `Mathematical Modeling` · `Engineering`
 
-### Projects
+## Projects
 
-Currently building my first projects. More soon.
+Projects are currently in development — check back soon.
+
+## Let's connect
+
+(https://www.linkedin.com/in/alec-bastien-50616b359/)
