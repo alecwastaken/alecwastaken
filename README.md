@@ -1,16 +1,20 @@
-## Hi there 👋
+# Alec Bastien
 
-<!--
-**alecwastaken/alecwastaken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Student in Pure & Applied Sciences at Collège Jean-de-Brébeuf.
 
-Here are some ideas to get you started:
+Interested in quantitative finance, computer science, mathematics, and engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently
+
+- Learning Python through Harvard CS50P
+- Exploring quantitative finance and mathematical modeling
+- Studying calculus, mechanics, and chemistry
+- Building projects to apply what I learn
+
+### Interests
+
+`Python` `Quantitative Finance` `Data Analysis` `Mathematics`
+
+### Projects
+
+Currently building my first projects. More soon.
